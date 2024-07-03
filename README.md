@@ -1,2 +1,3 @@
 # CRUD_PHP
-CRUD PHP MVC
+Inventario - CRUD en PHP usando el paradigma MVC.
+
